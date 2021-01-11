@@ -30,6 +30,6 @@
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Using Core Location for iBeacons</string>
   <key>NSBluetoothAlwaysUsageDescription</key>
-  <string>Using Core Location for iBeacons</string>
+  <string>Using Core Location for iBeacons 2</string>
 </dict>
 </plist>
